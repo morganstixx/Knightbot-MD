@@ -99,8 +99,8 @@ const videoCommand = require('./commands/video');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A";
-global.ytch = "Mr Unique Hacker";
+global.channelLink = "https://youtube.com/@heartfeltmomenttv?si=Yy8wb4Ib_t2ItOEp";
+global.ytch = "Heartfelt Moment Tv";
 
 // Add this near the top of main.js with other global configurations
 const channelInfo = {
