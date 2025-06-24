@@ -864,7 +864,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'KnightBot MD',
+                            newsletterName: 'Morgan Bot',
                             serverMessageId: -1
                         }
                     }
@@ -903,7 +903,7 @@ async function handleGroupParticipantUpdate(sock, update) {
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: channelId,
-                            newsletterName: 'KnightBot MD',
+                            newsletterName: 'MorganBot',
                             serverMessageId: -1
                         }
                     }
